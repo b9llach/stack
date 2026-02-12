@@ -1,11 +1,11 @@
-# VaultVal
+# Stack
 
 A full-stack application with a production-ready FastAPI backend, Next.js web frontend, and Expo mobile app.
 
 ## Repository Structure
 
 ```
-vaultval/
+stack/
   backend/    FastAPI REST API + WebSockets (Python)
   frontend/   Next.js 16 web application (React 19, Tailwind CSS 4)
   mobile/     Expo React Native mobile app
