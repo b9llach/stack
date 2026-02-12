@@ -1,6 +1,6 @@
 # Stack
 
-A full-stack application with a production-ready FastAPI backend, Next.js web frontend, and Expo mobile app.
+A full stack application with a production-ready FastAPI backend, Next.js web frontend, and Expo mobile app.
 
 ## Repository Structure
 
